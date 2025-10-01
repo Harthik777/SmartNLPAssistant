@@ -1,0 +1,35 @@
+# Transformers for summarization and QA
+transformers
+torch
+
+# Gradio for interactive UI
+gradio
+
+# PyMuPDF for PDF parsing
+PyMuPDF
+
+# Sentence Transformers for embeddings
+sentence-transformers
+
+# KeyBERT for keyword extraction
+keybert
+
+# BM25 retrieval
+rank-bm25
+
+# Wordcloud visualization
+wordcloud
+
+# LIME for explainable AI
+lime
+
+# ROUGE evaluation
+rouge-score
+
+# Utilities
+numpy
+pandas
+matplotlib
+
+# Optional: progress bars / temp files
+tqdm
