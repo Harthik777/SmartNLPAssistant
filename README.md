@@ -8,7 +8,7 @@ This project is a **full-featured NLP application** that allows users to **uploa
 3. **Explainability & Analytics** – Top influential sentences, keywords, wordcloud, ROUGE evaluation, and optional LIME explanations.  
 4. **Downloadable outputs** – Summary, combined report, and QA answers for portfolio/demo purposes.
 
-This project is **placement-ready**, **resume-worthy**, and optimized to run **entirely on CPU**.
+This project is optimized to run **entirely on CPU**.
 
 ---
 
